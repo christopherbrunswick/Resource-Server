@@ -7,5 +7,5 @@ You can find the handbook here: https://auth0.com/resources/ebooks/the-openid-co
 
 Have fun!
 =======
-# Resource-Server
->>>>>>> 7f788fc4f12056bcbb2b3e03e14532972c23dafb
+# Node.js Resource-Server
+
